@@ -4,10 +4,10 @@ This project is a comprehensive contact management application built using Sprin
 
 
 Key Features : 
-User authentication and authorization
-Contact management (add, edit, delete, search)
-Contact profile images (stored on Cloudinary)
-Customizable dashboard layout
+1)User authentication and authorization
+2)Contact management (add, edit, delete, search)
+3)Contact profile images (stored on Cloudinary)
+4)Customizable dashboard layout
 
 
 Technologies Used : 
